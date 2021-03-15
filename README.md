@@ -17,8 +17,8 @@ Set of different AI algorithms to play pacman. Will continue to add different ap
 
 Each approach has a slightly different API - below is set of commands to run each one
 
-* python pacman.py -n 5 -p PartialAgent -l mediumClassic
-* python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
+$ python pacman.py -n 5 -p PartialAgent -l mediumClassic
+$ python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
 
 ### Todo
 
