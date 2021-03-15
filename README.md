@@ -27,7 +27,7 @@ Todo
 -------------
 
 * Different search algorithms
-* Different classifiers (RF,SVM, gradient boost etc)
+* Different classifiers (RF, SVM, gradient boost etc)
 * Model and model free reinforcement learning
 * Deep reinforcement learning
 
