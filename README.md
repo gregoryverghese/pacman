@@ -1,14 +1,11 @@
-# pacman
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href=>
     <img src="images/pacmanlogo.svg" alt="Logo" width="80" height="80">
   </a>
- 
 
+# pacman
 
 * a wrapper around openslide.OpenSlide class
 
