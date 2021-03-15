@@ -4,7 +4,7 @@
     <img src="images/pacmanlogo.svg" alt="Logo" width="80" height="80">
   </a>
 
-# pacman
+pacman
 -------------
 
 Set of different AI algorithms to play pacman. Will continue to add different approaches to playing the game. 
@@ -14,16 +14,16 @@ Set of different AI algorithms to play pacman. Will continue to add different ap
 * Classifiers
 * Q-learning
 
-### Running
+Running
 -------------
 
-Each approach has a slightly different API - below is set of commands to run each one:
+Each approach has a slightly different API - below is set of commands in order of above algorithms
 
-    * $ python pacman.py -n 5 -p PartialAgent -l mediumClassic
-    * $ python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
+    $ python pacman.py -n 5 -p PartialAgent -l mediumClassic
+    $ python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
     
 
-### Todo
+Todo
 -------------
 
 * Different search algorithms
@@ -31,7 +31,7 @@ Each approach has a slightly different API - below is set of commands to run eac
 * Model and model free reinforcement learning
 * Deep reinforcement learning
 
-### License
+License
 -------------
 
 Distributed under the MIT License
