@@ -9,13 +9,13 @@
 Set of different AI algorithms to play pacman. Will continue to add different approaches to playing the game. 
 
 * A* search
-* Markov Decision Process
+* Markov decision process
 * Classifiers
 * Q-learning
 
 ### Running
 
-Each approach has a slightly different API - below is set of commands to run each one
+Each approach has a slightly different API - below is set of commands to run each one:
 
   $ python pacman.py -n 5 -p PartialAgent -l mediumClassic
   $ python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
