@@ -4,7 +4,7 @@
     <img src="images/pacmanlogo.svg" alt="Logo" width="80" height="80">
   </a>
 
-pacman
+Pacman
 -------------
 
 Set of different AI algorithms to play pacman. Will continue to add different approaches to playing the game. 
@@ -36,7 +36,7 @@ License
 
 Distributed under the MIT License
 
-### Contact
+Contact
 -------------
 
 gregory.verghese@gmail.com
