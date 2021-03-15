@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href=>
@@ -7,19 +6,31 @@
 
 # pacman
 
-* a wrapper around openslide.OpenSlide class
+Set of different AI algorithms to play pacman. Will continue to add different approaches to playing the game. 
 
-### TODO
+* A* search
+* Markov Decision Process
+* Classifiers
+* Q-learning
 
-* add useful preprocesisng functions
+### Running
 
+Each approach has a slightly different API - below is set of commands to run each one
 
-<!-- LICENSE -->
+* python pacman.py -n 5 -p PartialAgent -l mediumClassic
+* python pacman.py -q -n 10 -p MDPAgent -l mediumClassic
+
+### Todo
+
+* Different search algorithms
+* Different classifiers (RF,SVM, gradient boost etc)
+* Model and model free reinforcement learning
+* Deep reinforcement learning
+
 ### License
 
 Distributed under the MIT License
 
-<!-- CONTACT -->
 ### Contact
 
 gregory.verghese@gmail.com
